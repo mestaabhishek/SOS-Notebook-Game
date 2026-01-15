@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "570799277893",
+    "firebase_url": "https://play-bingo-eed66-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "play-bingo-eed66",
+    "storage_bucket": "play-bingo-eed66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570799277893:android:91c2a8a8c8449bcb35602c",
+        "android_client_info": {
+          "package_name": "com.charodi.notebookgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570799277893-eesbvs0o6v98u9jjcassrrshmv4lkbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-0FPGLM5ea_pHIAp5QLlbwMOX43qFAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570799277893-eesbvs0o6v98u9jjcassrrshmv4lkbcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570799277893:android:f01885a17581eeaf35602c",
+        "android_client_info": {
+          "package_name": "com.example.playbingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570799277893-eesbvs0o6v98u9jjcassrrshmv4lkbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-0FPGLM5ea_pHIAp5QLlbwMOX43qFAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570799277893-eesbvs0o6v98u9jjcassrrshmv4lkbcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
